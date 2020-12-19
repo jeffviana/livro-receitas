@@ -1,16 +1,12 @@
->>>>>>> Livro de Receitas 👨‍🍳
->>>>>>>
->>>>>>> 
->>>>>>>
->>>>>>> Olá! Bem vindo ao meu livro de receitas 👋
->>>>>>>
->>>>>>> 
->>>>>>>
->>>>>>> - Strogonoff de frango
->>>>>>>
->>>>>>> - Pavê
->>>>>>>
->>>>>>> - Manjar
->>>>>>>
->>>>>>> - Pudim
->>>>>>>
+Livro de Receitas 👨‍🍳
+
+
+
+Olá! Bem vindo ao meu livro de receitas 👋
+
+
+
+- Strogonoff de frango
+- Pavê
+- Manjar
+- Pudim
